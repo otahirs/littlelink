@@ -112,8 +112,8 @@
 
 /* Avatar */
 .avatar {
-	width: 8rem;             /* 128px */
-	height: 8rem;
+	width: 12rem;             /* 128px */
+	height: 12rem;
 	border-radius: 50%;
 	object-fit: cover;
 	background-position: center;
